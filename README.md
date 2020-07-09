@@ -6,4 +6,5 @@
 - [Velocity Docs](https://velocity.apache.org/engine/devel/vtl-reference.html)
 - [Tutorials for Software Developers](http://tutorials.jenkov.com/)
 - [12factor.net](https://12factor.net/)
+- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
