@@ -9,4 +9,5 @@
 - [Tutorials for Software Developers](http://tutorials.jenkov.com/)
 - [12factor.net](https://12factor.net/)
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [FanlessTech](https://www.fanlesstech.com/)
 
