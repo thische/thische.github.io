@@ -11,4 +11,5 @@
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 - [FanlessTech](https://www.fanlesstech.com/)
 - [Gorilla web toolkit](https://www.gorillatoolkit.org/)
+- [FastHTTP](https://github.com/valyala/fasthttp)
 
