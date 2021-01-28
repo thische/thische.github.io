@@ -11,7 +11,6 @@
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 - [FanlessTech](https://www.fanlesstech.com/)
 - [Gorilla web toolkit](https://www.gorillatoolkit.org/)
-- [FastHTTP](https://github.com/valyala/fasthttp)
-- [FastHTTP docs](https://pkg.go.dev/github.com/valyala/fasthttp)
+- [FastHTTP](https://pkg.go.dev/github.com/valyala/fasthttp)
 - [Revel Web Framework](https://revel.github.io/)
 - [The Tengo Language](https://github.com/d5/tengo)
