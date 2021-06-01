@@ -19,3 +19,4 @@
 - [Go channels](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 - [CrypTool Portal](https://www.cryptool.org/en/)
 - [The Markdown Guide](https://www.markdownguide.org/)
+- [Awsome Go](https://awesome-go.com/)
