@@ -19,5 +19,6 @@
 - [Go channels](https://docs.google.com/document/d/1yIAYmbvL3JxOKOjuCyon7JhW4cSv1wy5hC0ApeGMV9s/pub)
 - [CrypTool Portal](https://www.cryptool.org/en/)
 - [The Markdown Guide](https://www.markdownguide.org/)
+- [Try CommonMark Here](https://spec.commonmark.org/dingus/)
 - [Awsome Go](https://awesome-go.com/)
 - [Alles rund um Windows](https://www.windowspage.com/)
