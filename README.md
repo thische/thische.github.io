@@ -22,3 +22,7 @@
 - [Try CommonMark Here](https://spec.commonmark.org/dingus/)
 - [Awsome Go](https://awesome-go.com/)
 - [Alles rund um Windows](https://www.windowspage.com/)
+- [Rust Programming Language](https://www.rust-lang.org/)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+- [Rocket Web Framework for Rust](https://rocket.rs/)
+- 
