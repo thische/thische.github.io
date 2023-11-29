@@ -25,3 +25,4 @@
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 - [Rocket Web Framework for Rust](https://rocket.rs/)
+- [OpenAI developer platform](https://platform.openai.com/docs/overview)
