@@ -26,3 +26,6 @@
 - [Rocket Web Framework for Rust](https://rocket.rs/)
 - [Pingora is a Rust framework to build fast, reliable and programmable networked systems](https://github.com/cloudflare/pingora)
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
+- [Data URL Maker](https://dataurl.app/)
+- [Resize Images](https://squoosh.app/)
+- 
