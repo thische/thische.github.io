@@ -28,4 +28,6 @@
 - [OpenAI developer platform](https://platform.openai.com/docs/overview)
 - [Data URL Maker](https://dataurl.app/)
 - [Resize Images](https://squoosh.app/)
+- [NestJS Docs](https://docs.nestjs.com/)
+- [NestJS Concepts](https://github.com/EverythingFromDayOne/nestjs-concepts)
 - 
